@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Jul 03 15:45:09 CST 2018
+@default-CYQ-http\://121.42.191.68\:8888/maven/.lastUpdated=1530603909291
+http\://repo1.maven.org/maven2/.error=
+http\://repo1.maven.org/maven2/.lastUpdated=1530603832993
+http\://121.42.191.68\:8888/maven/.error=Could not transfer artifact com.bobai.cyq\:cyqapi-core\:pom\:0.0.1-SNAPSHOT from/to CYQ (http\://121.42.191.68\:8888/maven/)\: Connect to 121.42.191.68\:8888 [/121.42.191.68] failed\: Operation timed out (Connection timed out)
