@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Nov 02 14:02:40 CST 2017
+http\://repo1.maven.org/maven2/.error=
+http\://repo1.maven.org/maven2/.lastUpdated=1509602550318
+@default-http\://121.42.191.68\:8888/maven/.lastUpdated=1509602560333
+http\://121.42.191.68\:8888/maven/.error=Could not transfer artifact com.esms\:postmsg-ump\:jar\:sources\:2.4 from/to CYQ (http\://121.42.191.68\:8888/maven/)\: connect timed out
